@@ -1,0 +1,6 @@
+mcp<2
+ollama
+fastapi
+uvicorn
+pydantic
+pytest
